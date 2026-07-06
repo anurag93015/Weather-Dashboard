@@ -1,5 +1,10 @@
 # 🌦️ Weather Dashboard | Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Transform-green?style=for-the-badge)
+![Weather API](https://img.shields.io/badge/API-Weather-orange?style=for-the-badge)
+
 An interactive **Power BI Weather Dashboard** that visualizes real-time weather conditions, 7-day forecasts, air quality, and environmental metrics for multiple cities. The dashboard provides an intuitive and visually appealing interface for monitoring weather trends and making data-driven decisions.
 
 ---
